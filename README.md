@@ -1,5 +1,4 @@
-# VirtualClothingTryOn
-Virtual Clothing Try On Gradio App
+# Gradio-Based Virtual Clothing Try-On App
 
 # Virtual Clothing Try On Demo
 

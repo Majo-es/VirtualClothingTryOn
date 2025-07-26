@@ -1,6 +1,6 @@
 # Gradio-Based Virtual Clothing Try-On App
 
-# Virtual Clothing Try On Demo
+# Virtual Clothing Try-On Demo
 
 This is a Gradio web application that allows users to virtually try on clothing. By uploading an image of a garment and an image of a person, the application will generate a final image showing the person realistically wearing the garment. This demo utilizes the Google Gemini AI model for image generation.
 
@@ -10,7 +10,7 @@ Have you ever wondered how a specific piece of clothing would look on you or som
 
 ## Key Features:
 
-* **Realistic Virtual Try On:** Generates an image of a person wearing a chosen garment in a realistic manner.
+* **Realistic Virtual Try On:** Generates an image of a person realistically wearing a chosen garment.
 * **Simple User Interface:** Built with Gradio, providing an intuitive and easy-to-use web interface.
 * **Powered by Google Gemini AI:** Leverages the power of Google's advanced image generation model for high-quality results.
 * **Example Images Provided:** Includes pre-loaded examples to quickly get started and see the app in action.
